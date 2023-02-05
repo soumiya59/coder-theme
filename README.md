@@ -9,3 +9,5 @@
 3. run `code --install-extension coder-theme-0.0.1.vsix`
 4. open color themes with [cntrl+K cntrl+T]
 5. search for coder-theme and select it
+6. never forget to update vscode to latest version
+
